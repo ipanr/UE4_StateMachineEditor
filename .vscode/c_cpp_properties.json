@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "V_ITDEditor Editor Win64 Development (V_ITD)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\Ipanr\\Desktop\\UE4 Proyects\\V_ITD\\.vscode\\compileCommands_V_ITD.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\Ipanr\\Desktop\\UE4 Proyects\\V_ITD\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

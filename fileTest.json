@@ -1,0 +1,184 @@
+[
+	{
+		"Name": "DefaultState",
+		"State": "DefaultState",
+		"AccesibleStates": [
+			{
+				"State": "idle-walk-run",
+				"priority": "0",
+				"Detections": [
+				]
+			},
+		]
+	},
+	{
+		"Name": "idle-walk-run",
+		"State": "idle-walk-run",
+		"AccesibleStates": [
+			{
+				"State": "OnAir",
+				"priority": "0",
+				"Detections": [
+				]
+			},
+			{
+				"State": "Train",
+				"priority": "1",
+				"Detections": [
+				]
+			},
+		]
+	},
+	{
+		"Name": "OnAir",
+		"State": "OnAir",
+		"AccesibleStates": [
+			{
+				"State": "Train",
+				"priority": "0",
+				"Detections": [
+				]
+			},
+		]
+	},
+	{
+		"Name": "Train",
+		"State": "Train",
+		"AccesibleStates": [
+			{
+				"State": "Baloon",
+				"priority": "0",
+				"Detections": [
+				]
+			},
+			{
+				"State": "DefaultState",
+				"priority": "1",
+				"Detections": [
+				]
+			},
+		]
+	},
+	{
+		"Name": "Baloon",
+		"State": "Baloon",
+		"AccesibleStates": [
+			{
+				"State": "DefaultState",
+				"priority": "0",
+				"Detections": [
+				]
+			},
+		]
+	},
+	{
+		"Name": "Boat",
+		"State": "Boat",
+		"AccesibleStates": [
+		]
+	},
+	{
+		"Name": "UtilityBoots",
+		"State": "UtilityBoots",
+		"AccesibleStates": [
+			{
+				"State": "idle-walk-run",
+				"priority": "0",
+				"Detections": [
+				]
+			},
+			{
+				"State": "OnAir",
+				"priority": "1",
+				"Detections": [
+					"Detection5",
+					"Detection4",
+					"Detection2"
+				]
+			},
+			{
+				"State": "DefaultState",
+				"priority": "2",
+				"Detections": [
+					"Detection2"
+				]
+			},
+		]
+	},
+	{
+		"Name": "BenjaminState",
+		"State": "BenjaminState",
+		"AccesibleStates": [
+			{
+				"State": "DefaultState",
+				"priority": "0",
+				"Detections": [
+					"Detection5",
+					"Detection4",
+					"Detection2",
+					"Detection7"
+				]
+			},
+			{
+				"State": "idle-walk-run",
+				"priority": "1",
+				"Detections": [
+					"Detection5",
+					"Detection4",
+					"Detection2"
+				]
+			},
+			{
+				"State": "OnAir",
+				"priority": "2",
+				"Detections": [
+					"Detection5",
+					"Detection4",
+					"Detection2"
+				]
+			},
+			{
+				"State": "Train",
+				"priority": "3",
+				"Detections": [
+					"Detection5",
+					"Detection4",
+					"Detection2"
+				]
+			},
+			{
+				"State": "Baloon",
+				"priority": "4",
+				"Detections": [
+					"Detection5",
+					"Detection4",
+					"Detection2"
+				]
+			},
+			{
+				"State": "Boat",
+				"priority": "5",
+				"Detections": [
+				]
+			},
+			{
+				"State": "UtilityBoots",
+				"priority": "6",
+				"Detections": [
+					"Detection5",
+					"Detection4",
+					"Detection2"
+				]
+			},
+			{
+				"State": "NewEnumerator49",
+				"priority": "7",
+				"Detections": [
+					"Detection5",
+					"Detection4",
+					"Detection2"
+				]
+			},
+		]
+	},
+]

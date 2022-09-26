@@ -1,0 +1,47 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Ipanr\\\\Desktop\\\\UE4 Proyects\\\\V_ITD\\\\Source\\\\V_ITD\\\\BPFL_InteractWithDirectories.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ipanr\\Desktop\\UE4 Proyects\\V_ITD\\.vscode\\compileCommands_Default\\V_ITD.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ipanr\\\\Desktop\\\\UE4 Proyects\\\\V_ITD\\\\Source\\\\V_ITD\\\\BPFL_InteractWithDirectories.h",
+		"command": "cl.exe @\"C:\\Users\\Ipanr\\Desktop\\UE4 Proyects\\V_ITD\\.vscode\\compileCommands_Default\\V_ITD.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ipanr\\\\Desktop\\\\UE4 Proyects\\\\V_ITD\\\\Source\\\\V_ITD\\\\BPFL_Test.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ipanr\\Desktop\\UE4 Proyects\\V_ITD\\.vscode\\compileCommands_Default\\V_ITD.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ipanr\\\\Desktop\\\\UE4 Proyects\\\\V_ITD\\\\Source\\\\V_ITD\\\\BPFL_Test.h",
+		"command": "cl.exe @\"C:\\Users\\Ipanr\\Desktop\\UE4 Proyects\\V_ITD\\.vscode\\compileCommands_Default\\V_ITD.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ipanr\\\\Desktop\\\\UE4 Proyects\\\\V_ITD\\\\Source\\\\V_ITD\\\\V_ITD.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\Ipanr\\Desktop\\UE4 Proyects\\V_ITD\\.vscode\\compileCommands_Default\\V_ITD.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ipanr\\\\Desktop\\\\UE4 Proyects\\\\V_ITD\\\\Source\\\\V_ITD\\\\V_ITD.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ipanr\\Desktop\\UE4 Proyects\\V_ITD\\.vscode\\compileCommands_Default\\V_ITD.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ipanr\\\\Desktop\\\\UE4 Proyects\\\\V_ITD\\\\Source\\\\V_ITD\\\\V_ITD.h",
+		"command": "cl.exe @\"C:\\Users\\Ipanr\\Desktop\\UE4 Proyects\\V_ITD\\.vscode\\compileCommands_Default\\V_ITD.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ipanr\\\\Desktop\\\\UE4 Proyects\\\\V_ITD\\\\Source\\\\V_ITD\\\\V_ITDGameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ipanr\\Desktop\\UE4 Proyects\\V_ITD\\.vscode\\compileCommands_Default\\V_ITD.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ipanr\\\\Desktop\\\\UE4 Proyects\\\\V_ITD\\\\Source\\\\V_ITD\\\\V_ITDGameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\Ipanr\\Desktop\\UE4 Proyects\\V_ITD\\.vscode\\compileCommands_Default\\V_ITD.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
